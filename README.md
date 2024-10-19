@@ -22,4 +22,11 @@
   - Addition of a blog section for sharing tech news and trends.
 
 
- ## Below are the screen recording of the each and every page of this website.
+ ## Below are the screen recording of the each and every page of this website
+
+ https://github.com/user-attachments/assets/ef33fdcd-c7ee-439d-8d62-84d81095fee4
+
+
+ ## This is shop option in which we use drop down menu that show different category of electronics gadget
+
+ 
