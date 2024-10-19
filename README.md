@@ -29,4 +29,27 @@
 
  ## This is shop option in which we use drop down menu that show different category of electronics gadget
 
+https://github.com/user-attachments/assets/16a8d924-6272-478f-b0f0-6a62ab999864
+
+## This is the contact page that show how you can contact us through form and our adress and many more
+
+https://github.com/user-attachments/assets/a5456841-99ac-4df3-b90c-150f2c6fc0d9
+
+
+## This is the search option on our header from which we can search an electronic gadget that we want
+
+https://github.com/user-attachments/assets/f18caa82-9127-433c-9eaa-234c3734a48a
+
+## This is the wishlist that show us the items that we select in our wishlist to see them after when we want
+
+https://github.com/user-attachments/assets/99b0be8f-cfdb-40a1-86c0-5d5d4aad04e9
+
+## This is the my account option from where the customer can register and login their account in which he/she can easily see ehat they order and even change their address before the order is dispatch
+
+https://github.com/user-attachments/assets/2cf6551f-6a47-4c56-80e6-d2f0de9635de
+
+## This is the my cart option in which we can see our product and checkout them by filling our details
+
+https://github.com/user-attachments/assets/f469f904-5c20-4a58-a78b-a19fc6cb41f5
+
  
